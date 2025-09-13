@@ -1,0 +1,17 @@
+{
+  "name": "mytube",
+  "version": "1.0.0",
+  "description": "mytube backend series",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Rick Bhattacharya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
